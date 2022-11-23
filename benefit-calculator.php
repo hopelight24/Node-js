@@ -1,7 +1,7 @@
 <?php
 /** 
 * Plugin Name: Benefit Calculator
-* Plugin URI: https://github.com/hopelight24/benefit-calculator
+* Plugin URI: https://github.com/hopelight24/wordpress-benefit-calculator
 * Author: Sazzad Mahmud
 * Author URI: https://github.com/hopelight24
 * Description: this plugin calculate the benefit for customers
